@@ -1,2 +1,3 @@
 This is a file
 Conflict solved
+another conflict
